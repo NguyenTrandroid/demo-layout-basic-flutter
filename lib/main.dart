@@ -52,7 +52,9 @@ class _TdnguyenCardState extends State<TdnguyenCard> {
                   color: Colors.grey, letterSpacing: 1.5, fontSize: 17),
             ),
             SizedBox(height: 10),
+
             Text('Nguyen Thi nhi va Nguyen Map',
+
                 style: TextStyle(
                     color: Colors.amber,
                     letterSpacing: 1.5,
